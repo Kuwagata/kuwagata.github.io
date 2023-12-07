@@ -1,6 +1,6 @@
-baseURL: "https://example.org/"
+baseURL: "https://www.johnheatherington.com/"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "John Heatherington's Personal Site"
 
 paginate: 5
 theme: PaperMod
