@@ -44,11 +44,10 @@ params:
   hideFooter: false
 
   assets:
-    favicon: "/favicons/favicon.svg"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    manifest: "manifest.webmanifest"
+    favicon: "/favicons/favicon.ico"
+    favicon_svg: "/favicons/favicon.svg"
+    apple_touch_icon: "/favicons/apple-touch-icon.png"
 
   label:
     text: "Home"
